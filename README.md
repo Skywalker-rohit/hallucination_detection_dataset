@@ -227,7 +227,7 @@ This dataset is released under the [MIT License](LICENSE). Please ensure complia
 ## 📞 Contact
 
 - **Rohit Kumar**: srz248004@iitd.ac.in
-- **Niladri Chatterjee**: niladri@maths.iitd.ac.in
+- **Niladri Chatterjee**: 
 - **Institution**: Indian Institute of Technology Delhi
 
 ## 🔗 Related Work
