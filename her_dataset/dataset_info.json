@@ -1,0 +1,64 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "context": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "evidence": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "einfo": {
+      "cs": {
+        "feature": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "_type": "Sequence"
+      },
+      "pv": {
+        "feature": {
+          "feature": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "_type": "Sequence"
+        },
+        "_type": "Sequence"
+      },
+      "ss": {
+        "feature": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "_type": "Sequence"
+      },
+      "uv": {
+        "feature": {
+          "feature": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "_type": "Sequence"
+        },
+        "_type": "Sequence"
+      }
+    },
+    "hf": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "topic": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
